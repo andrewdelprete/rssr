@@ -2,7 +2,7 @@
 
 ## Demo
 
-rssr.now.sh
+[rssr.now.sh](https://rssr.now.sh)
 
 ## Install it and run:
 
