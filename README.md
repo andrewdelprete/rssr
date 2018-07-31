@@ -10,3 +10,6 @@
 yarn install
 yarn start
 ```
+
+## WIP
+This is an absolute WIP, just fiddling around with AfterJS.
